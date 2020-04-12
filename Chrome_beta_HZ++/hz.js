@@ -6,7 +6,7 @@ javascript:(function()
 		var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
 		link.type = 'image/x-icon';
 		link.rel = 'shortcut icon';
-		link.href = 'https://pt2-dshz.netlify.com/icon.ico';
+		link.href = 'https://pt2-dshz.netlify.com/exthelper/icon.ico';
 		document.getElementsByTagName('head')[0].appendChild(link);
 
 		//Muda logo ao fds
