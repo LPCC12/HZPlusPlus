@@ -11,9 +11,9 @@ javascript:(function()
 
 		//Muda logo ao fds
 		var d = new Date();
-		var n = d.getDay()
-		
-		if(n==6 || n==7){
+		var n = d.getDay();
+
+		if(n==6 || n==0){
 			var plusLinks = document.querySelectorAll('.logo');
 			var firstLink = plusLinks[0];
 			firstLink.setAttribute('class', 'logo_fds');
