@@ -1,6 +1,6 @@
 {
-    "name": "[BETA] Hero Zero++",
-    "version": "0.0.1",
+    "name": "Hero Zero++",
+    "version": "1.0.1",
     "description": "Simple Hero Zero Extension. Improve in-game experience.",
 	"permissions": ["storage"],
 	"icons": {
