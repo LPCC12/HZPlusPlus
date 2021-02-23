@@ -1,0 +1,57 @@
+html,body {
+  background: #3b3e44 !important; 
+  height:100%
+}
+.main-container{
+	
+	background: url("https://i.imgur.com/ZZywY2u.jpg") !important;
+}
+.logo_fds{
+	background:url('https://pt2-dshz.netlify.com/exthelper/logo.png') 
+	center no-repeat;
+	width: 514px;
+    height: 122px;
+    margin: auto;
+    padding: 0px;
+}
+div.logo{
+	background:url(/images/logo-default.png) 
+	center no-repeat;
+	width: 514px;
+    height: 122px;
+    margin: auto;
+    padding: 0px;
+}
+#frameAdvertisment{
+display: none !important;	
+}
+#rightCol {
+display: none !important;
+}
+.facebookAdvertismentFooter{
+display: none !important;
+}
+body.canvas div#globalContainer{
+padding-right: 0 !important;
+}
+#infoMessageFrame{
+display: none !important;
+}
+.footer {
+padding-bottom: 25px !important;
+width: 890px;
+margin-left: auto;
+margin-right: auto;
+background: white !important;
+-moz-box-shadow:    inset 0 0 5px #000000;
+-webkit-box-shadow: inset 0 0 5px #000000;
+box-shadow:         inset 0 0 5px #000000;
+border-bottom-left-radius: 7px; 
+border-bottom-right-radius: 7px;
+}
+.frame_advertisement {
+display: none !important;
+}
+.frame_advertisment_left {
+display: none !important;
+}
